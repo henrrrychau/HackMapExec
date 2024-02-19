@@ -1,6 +1,7 @@
-# No Longer Maintained
+# HackMapExec: The personally maintained version of CrackMapExec
 
-This project is no longer mantained due to the existence of a hostile fork.
+HackMapExec is a personally maintained version of CrackMapExec which has been archived due to hostile branches.
+I maintain this for the practice of red team weapon customization.
 
 # CrackMapExec
 
