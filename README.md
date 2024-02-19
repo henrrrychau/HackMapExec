@@ -3,7 +3,7 @@
 HackMapExec is a personally maintained version of CrackMapExec which has been archived due to hostile branches.
 I maintain this for the practice of red team weapon customization.
 
-For memorial, the original description of CrackMapExec will be preserved below. And I will change
+For memorial, the original description of CrackMapExec will be preserved below. All the changes will be based on the original work.
 # HackMapExec
 
 <p align="center">
