@@ -10,7 +10,7 @@ For memorial, the original description of CrackMapExec will be preserved below. 
   <img src="https://cloud.githubusercontent.com/assets/5151193/17577511/d312ceb4-5f3b-11e6-8de5-8822246289fd.jpg" alt="cme"/>
 </p>
 
-You are on the **latest up-to-date** repository of the project CrackMapExec ! 🎉
+You are on the **latest up-to-date** repository of the project HackMapExec, the personally-maintained project of CrackMapExec! 🎉
 
 - 🚧 If you want to report a problem, open un [Issue](https://github.com/henrrrychau/HackMapExec/issues) 
 - 🔀 If you want to contribute, open a [Pull Request](https://github.com/henrrrychau/HackMapExec/pulls)
