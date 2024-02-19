@@ -3,7 +3,8 @@
 HackMapExec is a personally maintained version of CrackMapExec which has been archived due to hostile branches.
 I maintain this for the practice of red team weapon customization.
 
-# CrackMapExec
+For memorial, the original description of CrackMapExec will be preserved below. And I will change
+# HackMapExec
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/5151193/17577511/d312ceb4-5f3b-11e6-8de5-8822246289fd.jpg" alt="cme"/>
@@ -11,14 +12,15 @@ I maintain this for the practice of red team weapon customization.
 
 You are on the **latest up-to-date** repository of the project CrackMapExec ! 🎉
 
-- 🚧 If you want to report a problem, open un [Issue](https://github.com/mpgn/CrackMapExec/issues) 
-- 🔀 If you want to contribute, open a [Pull Request](https://github.com/mpgn/CrackMapExec/pulls)
-- 💬 If you want to discuss, open a [Discussion](https://github.com/mpgn/CrackMapExec/discussions)
+- 🚧 If you want to report a problem, open un [Issue](https://github.com/henrrrychau/HackMapExec/issues) 
+- 🔀 If you want to contribute, open a [Pull Request](https://github.com/henrrrychau/HackMapExec/pulls)
+- 💬 If you want to discuss, open a [Discussion](https://github.com/henrrrychau/HackMapExec/discussions)
 
 # Acknowledgments
 **(These are the people who did the hard stuff)**
 
 This project was originally inspired by:
+- [CrackMapExec](https://github.com/mpgn/CrackMapExec)
 - [CredCrack](https://github.com/gojhonny/CredCrack)
 - [smbexec](https://github.com/pentestgeek/smbexec)
 - [smbmap](https://github.com/ShawnDEvans/smbmap)
@@ -30,7 +32,7 @@ Unintentional contributors:
 - @ConsciousHacker's partial Python port of Invoke-obfuscation from the [GreatSCT](https://github.com/GreatSCT/GreatSCT) project
 
 # Documentation, Tutorials, Examples
-See the project's [wiki](https://www.crackmapexec.wiki/) for documentation and usage examples
+See the original CrackMapExec project's [wiki](https://www.crackmapexec.wiki/) for documentation and usage examples
 
 # Installation
 Please see the installation instructions on the [official wiki](https://www.crackmapexec.wiki/getting-started/installation)
